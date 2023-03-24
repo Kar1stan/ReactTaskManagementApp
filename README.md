@@ -1,39 +1,37 @@
-# To Do List App React (V1)
+# ReactTaskManagementApp
+***
+Task Management application on React.js
 
-To Do List App React JS by WebStylePress (Add, Edit, Update, Delete, Toggle Tasks)
 
-## How to Use
+## 💻 Topics
 
-Clone or download repo
-NodeJS / NPM / Yarn should be installed in your PC
+Integrated with:
 
-Open terminal or Git for Windows (Git Bash)
-Run these commands:
+- [x] https://react-bootstrap.github.io/
 
-### Install Dependencies
 
-yarn install
+## 💻 Pre-requisites
 
-OR
+Before you use this project you only need to have Node.js installed in your computer.
 
-npm install
+https://nodejs.org/es/download/
 
-### Run app
+Also delete package.lock file before you run your project.
 
-yarn start
+### Git clone
+This will clone the project, install NPM packages.
+```
+$ git clone https://github.com/Kar1stan/ReactTaskManagementApp.git
+$ cd ReactTaskManagementApp
+$ npm install
+```
 
-OR
+## 🚀 Run the project
+To run the project open terminal and  run the command:
+```
+$ npm run start
+```
+## Credits
+For further help or additional errors [here](https://ru.reactjs.org/)
 
-npm start
 
-### YouTube Tutorial URL
-
-Title: To Do List App Project in ReactJS | Full React JS Project for Beginners from Scratch
-
-https://youtu.be/TmDNBEdHzVs
-
-### To Do List App React (V2) [Update]
-
-Tutorial: https://youtu.be/E2CWxv5hOso
-
-Code: https://github.com/webstylepress/To-Do-List-App-React-V2-
